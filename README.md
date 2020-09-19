@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=D3D3D3&height=50&section=header&text=Kyoungnam%20Min&fontColor=000000&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=000000&height=50&section=header&text=Kyoungnam%20Min&fontColor=FFFFFF&fontSize=30)
 
 ## 😄 Who am I
 - Learning at Soongsil University, Seoul. (2016 ~ )
