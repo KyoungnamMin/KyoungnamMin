@@ -23,8 +23,6 @@
 - Samsung Tomorrow Solution Fianl 100 teams (Team ATS)
 
 ## 👯 Personal project
-- Breakout-style game (C programming)
-- Flight game (Processing)
 - Community for developer and designer (Web project)
 - Lots of small project using Micro-controller & Micro-processor
 - Mini-games enjoyed through the console window (Java programming)
