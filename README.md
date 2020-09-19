@@ -1,13 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=80&section=header&text=Hello%20World&fontSize=50)
 
 ## Who am I
-
-
-<!--
-**KYOUNGNAM-MIN/KYOUNGNAM-MIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+* Soongsil Univ.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
