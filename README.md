@@ -6,7 +6,7 @@
 - ROKAF M.P. (2018 ~ 2020)
 - KT Creative Innovation Leader Scholarship “Future Creative Talent” scholarship student
 
-## 🌱 Currently studying on ...
+## 🌱 Currently studying
 - OpenCV for Computer Vision (C++ & Python)
 - Operating System
 - Database
