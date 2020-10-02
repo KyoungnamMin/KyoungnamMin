@@ -7,7 +7,7 @@
 - KT Creative Innovation Leader Scholarship “Future Creative Talent” scholarship student
 
 ## 🌱 Currently studying
-- OpenCV for Computer Vision (C++ & Python)
+- OpenCV(Image Processing), Computer Vision (C++ & Python)
 - Operating System
 - Database
 
