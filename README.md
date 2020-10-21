@@ -31,7 +31,7 @@
 - Autonomous driving
 - Computer Vision
 - Effective C++
-
+ 
 ### 💬 Contact me
 - alsrudska97@naver.com
 
