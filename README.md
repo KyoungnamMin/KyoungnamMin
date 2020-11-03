@@ -11,7 +11,7 @@
 
 ### 🔭 Good at
 - C++ Programming
-- C++ and Python for OpenCV
+- C++, Python for OpenCV
 - Micro-controller
 
 ### ⚡ Experienced as a team
