@@ -12,7 +12,6 @@
 
 ### 🔭 Good at
 - C++ Programming
-- Micro-controller
 
 ### ⚡ Experienced as a team
 - Soongsil start-up camp (Team KACT)
