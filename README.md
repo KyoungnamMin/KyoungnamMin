@@ -1,7 +1,6 @@
 ### 😄 Who am I
 - Learning at Soongsil University, Seoul. (2016 ~ )
 - Studying computer science intensively
-- ROKAF M.P. (2018 ~ 2020)
 - KT Creative Innovation Leader Scholarship “Future Creative Talent” scholarship student
 
 ### 🌱 Currently studying
