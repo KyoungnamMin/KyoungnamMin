@@ -9,9 +9,6 @@
 - Database
 - ROS2 foxy with Linux 20.04 (Robotiz Turtlebot3 Project)
 
-### 🔭 Good at
-- C++ Programming
-
 ### ⚡ Experienced as a team
 - Soongsil start-up camp (Team KACT)
 - SSUPPORT (university student volunteer group, Awarded the Minister of Education Award twice)
