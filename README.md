@@ -22,12 +22,6 @@
 - Mini-games enjoyed through the console window (Java programming)
 - Semester grade update notification via Web application (Python crawl project)
 
-### 🤔 Interested in
-- Autonomous driving
-- Computer Vision
-- Effective C++
-
-
 <!-- 👯 📫 How to reach me: ... -->
 <!-- 😄 Pronouns: ... -->
 <!-- ⚡ Fun fact: ... -->
