@@ -4,10 +4,9 @@
 - KT Creative Innovation Leader Scholarship “Future Creative Talent” scholarship student
 
 ### 🌱 Currently studying
-- OpenCV Computer Vision (C++ & Python)
-- Operating System
 - Database
-- ROS2 foxy with Linux 20.04 (Robotiz Turtlebot3 Project)
+- Python Django 
+- Rest Framework
 
 ### ⚡ Experienced as a team
 - Soongsil start-up camp (Team KACT)
@@ -21,6 +20,8 @@
 - Lots of small project using Micro-controller & Micro-processor
 - Mini-games enjoyed through the console window (Java programming)
 - Semester grade update notification via Web application (Python crawl project)
+
+
 
 <!-- 👯 📫 How to reach me: ... -->
 <!-- 😄 Pronouns: ... -->
