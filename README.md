@@ -4,8 +4,9 @@
 - KT Creative Innovation Leader Scholarship “Future Creative Talent” scholarship student
 
 ### 🌱 Currently studying
+- Algorithm & OS
 - Database
-- Python Django 
+- Python Django
 - Rest Framework
 
 ### ⚡ Experienced as a team
