@@ -1,7 +1,7 @@
 ### 😄 Who am I
 - Learning at Soongsil University, Seoul. (2016 ~ )
 - Studying computer science intensively
-- KT Creative Innovation Leader Scholarship “Future Creative Talent” scholarship student
+- KT Creative Innovation Leader Scholarship “Future Creative Talent” scholarship student 
 
 ### 🌱 Currently studying
 - Algorithm & OS
