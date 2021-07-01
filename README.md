@@ -1,12 +1,3 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=KyoungnamMin&count_private=true&show_icons=true&theme=radical" height="165">
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alsrudska">
-
-
-
-
-
-
-
 ### 😄 Who am I
 - Learning at Soongsil University, Seoul. (2016 ~ )
 - Studying computer science intensively
@@ -33,6 +24,8 @@
 - Upbit Auto TradeBot (RaspberryPi + Python3 + Slack)
 
 
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=KyoungnamMin&count_private=true&show_icons=true&theme=radical" height="165">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alsrudska">
 
 
 
