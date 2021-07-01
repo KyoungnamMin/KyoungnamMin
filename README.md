@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyoungnamMin&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyoungnamMin&count_private=true&show_icons=true)
 
 ### 😄 Who am I
 - Learning at Soongsil University, Seoul. (2016 ~ )
