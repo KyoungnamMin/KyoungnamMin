@@ -1,6 +1,6 @@
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white">
+<!-- <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white">
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"> -->
 
 ### 😄 Who am I
 - Learning at Soongsil University, Seoul. (2016 ~ )
