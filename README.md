@@ -1,4 +1,5 @@
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/C%2B%2B-3766AB?style=flat-square&logo=C%2BC%2B&logoColor=white">
+
 
 ### 😄 Who am I
 - Learning at Soongsil University, Seoul. (2016 ~ )
