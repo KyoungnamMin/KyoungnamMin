@@ -1,5 +1,5 @@
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=KyoungnamMin&count_private=true&show_icons=true&theme=radical" width="600" height="300">
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alsrudska" width="300" height="180">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=KyoungnamMin&count_private=true&show_icons=true&theme=radical" width="500" height="300">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alsrudska" width="500" height="300">
 
 
 
