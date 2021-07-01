@@ -1,21 +1,20 @@
-<!-- <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"> -->
-
-### 😄 Who am I
+### 😄 Kyoungnam Min
 - Learning at Soongsil University, Seoul. (2016 ~ )
-- Studying computer science intensively
-- KT Creative Innovation Leader Scholarship “Future Creative Talent” scholarship student 
+- I like programming to solve problems.
+
+### 🎉 Awarded
+- Awarded the Deputy Prime Minister and Minister of Education Award (2016 & 2017)
+- KT Creative Innovation Leader Scholarship “Future Creative Talent” scholarship student (1st semester 2020)
+- Soongsil University Academic Excellence Scholarship (2nd semester 2020)
 
 ### 🌱 Currently studying
-- Algorithm & OS
-- Database
+- Algorithm & Data Structure
+- Network
 - Python Django
-- Rest Framework
 
 ### ⚡ Experienced as a team
 - Soongsil start-up camp (Team KACT)
-- SSUPPORT (university student volunteer group, Awarded the Minister of Education Award twice)
+- SSUPPORT (College Student Volunteer Group, 2016 & 2017 Awarded the Minister of Education Award)
 - Makerthon of Dangook Univ
 - Samsung Tomorrow Solution Fianl 100 teams (Team ATS)
 - 'OpenSource_Project' Subject (Chatbot Soongsili)
@@ -27,7 +26,10 @@
 - Semester grade update notification via Web application (Python crawl project)
 - Upbit Auto TradeBot (RaspberryPi + Python3 + Slack)
 
-
+### 🛠Recently Used🛠
+<!-- <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"> -->
 
 
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=KyoungnamMin&count_private=true&show_icons=true&theme=radical" height="165">
