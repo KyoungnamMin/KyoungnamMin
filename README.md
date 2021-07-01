@@ -21,7 +21,7 @@
 - Lots of small project using Micro-controller & Micro-processor
 - Mini-games enjoyed through the console window (Java programming)
 - Semester grade update notification via Web application (Python crawl project)
-
+- Upbit Auto TradeBot (RaspberryPi + Python3 + Slack)
 
 
 
