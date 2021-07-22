@@ -1,16 +1,15 @@
 ### 😄 Kyoungnam Min
 - Learning at Soongsil University, Seoul. (2016 ~ )
 - I like programming to solve problems.
- 
+
 ### 🎉 Awarded
 - Awarded the Deputy Prime Minister and Minister of Education Award (2016 & 2017)
 - KT Creative Innovation Leader Scholarship “Future Creative Talent” scholarship student (1st semester 2020)
-- Soongsil University Academic Excellence Scholarship (2nd semester 2020)
+- Soongsil University Academic Excellence Scholarship (2020-2, 2021-1)
 
 ### 🌱 Currently studying
-- Algorithm & Data Structure
-- Network
-- Python Django
+- Network & Database
+- Django
 
 ### ⚡ Experienced as a team
 - Soongsil start-up camp (Team KACT)
