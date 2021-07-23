@@ -35,7 +35,6 @@
 <!-- <img float='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alsrudska"> -->
 
 
-
 <!-- 👯 📫 How to reach me: ... -->
 <!-- 😄 Pronouns: ... -->
 <!-- ⚡ Fun fact: ... -->
