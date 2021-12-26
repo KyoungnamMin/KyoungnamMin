@@ -17,6 +17,7 @@
 - Makerthon of Dangook Univ
 - Samsung Tomorrow Solution Fianl 100 teams (Team ATS)
 - 'OpenSource_Project' Subject (Chatbot Soongsili)
+- Software Engineer Intern (@김캐디)
  
 ### 👯 Personal project
 - Community for developer and designer (Web project)
