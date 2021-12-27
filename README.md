@@ -1,31 +1,31 @@
 ### 😄 Kyoungnam Min
-- Learning at Soongsil University, Seoul. (2016 ~ )
+- Soongsil University, Seoul (2016.03 ~ 2022.02)
 - I like programming to solve problems.
 
 ### 🎉 Awarded
-- Awarded the Deputy Prime Minister and Minister of Education Award (2016 & 2017)
-- KT Creative Innovation Leader Scholarship “Future Creative Talent” scholarship student (1st semester 2020)
 - Soongsil University Academic Excellence Scholarship (2020-2, 2021-1)
+- KT Creative Innovation Leader Scholarship “Future Creative Talent” scholarship student (1st semester 2020)
+- Awarded the Deputy Prime Minister and Minister of Education Award (2016 & 2017)
 
 ### 🌱 Currently studying
-- Network & Database
 - Django
+- AWS
 
 ### ⚡ Experienced as a team
-- Soongsil start-up camp (Team KACT)
-- SSUPPORT (College Student Volunteer Group, 2016 & 2017 Awarded the Minister of Education Award)
-- Makerthon of Dangook Univ
-- Samsung Tomorrow Solution Fianl 100 teams (Team ATS)
-- 'OpenSource_Project' Subject (Chatbot Soongsili)
+- Muse (Soongsil Univ. Graduation Project)
 - Software Engineer Intern (@김캐디)
- 
-### 👯 Personal project
-- Community for developer and designer (Web project)
-- Lots of small project using Micro-controller & Micro-processor
-- Mini-games enjoyed through the console window (Java programming)
-- Semester grade update notification via Web application (Python crawl project)
-- Upbit Auto TradeBot (RaspberryPi + Python3 + Slack)
+- OpenSource Subject Team Project (Chatbot Soongsili)
+- SSUPPORT (College Student Volunteer Group, 2016 & 2017 Awarded the Minister of Education Award) 
+- Samsung Tomorrow Solution Fianl 100 teams (Team ATS)
+- Makerthon of Dangook Univ
+- Soongsil start-up camp (Team KACT)
 
+### 👯 Personal project
+- Upbit Auto TradeBot
+- Semester grade update notification via Web application
+- Mini-games enjoyed through the console window (Java programming)
+- Lots of small project using Micro-controller & Micro-processor
+- Community for developer and designer
 
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=KyoungnamMin&count_private=true&show_icons=true&theme=radical" height="165">
 <!-- <img float='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alsrudska"> -->
