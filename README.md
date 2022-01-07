@@ -28,6 +28,7 @@
 - Community for developer and designer
 
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=KyoungnamMin&count_private=true&show_icons=true&theme=radical" height="165">
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKyoungnamMin%2Fhit-counter&count_bg=%23BBDDA2&title_bg=%2369CD91&icon=&icon_color=%23090808&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!-- <img float='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alsrudska"> -->
 
 
