@@ -1,5 +1,5 @@
 ### 😄 Kyoungnam Min
-- Soongsil University, Seoul (2016.03 ~ 2022.02)
+- Soongsil University, Seoul (2016 ~ 2022)
 - I like programming to solve problems.
 
 ### 🌱 Currently studying
