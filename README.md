@@ -1,4 +1,6 @@
-### 😄 Kyoungnam Min
+Hi Backend Engineer
+
+<!-- ### 😄 Kyoungnam Min
 - Soongsil University, Seoul (2016 ~ 2022)
 - I like programming to solve problems.
 
@@ -26,7 +28,8 @@
 - Mini-games through the console window
 - Lots of small project using Micro-controller & Micro-processor
 - Community for developer and designer
-
+ -->
+ 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKyoungnamMin%2Fhit-counter&count_bg=%23BBDDA2&title_bg=%2369CD91&icon=&icon_color=%23090808&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=KyoungnamMin&count_private=true&show_icons=true&theme=radical" height="165">
